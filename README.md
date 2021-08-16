@@ -9,4 +9,4 @@ The application uses user input and stores them as strings. After, it's spliced 
 
 sdf
 
-
+s
