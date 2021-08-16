@@ -7,4 +7,3 @@ This Android-Studio build application that's able to calculate any 4 function ma
 The application uses user input and stores them as strings. After, it's spliced based on spaces and the 4 function signs where it's then calculated and displayed in a user-friendly format.
 
 
-wow
